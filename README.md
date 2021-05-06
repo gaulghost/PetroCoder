@@ -10,10 +10,12 @@ Task was to achieve the highest MAE on an open and closed dataset. Data for 7 oi
 Final Notebook will be uploaded after ending of competition.
 <hr>
 <h2>File Structure</h2>
-<b>PetroCoder_Round3_ByPradhuman.ipynb</b> - A standalone file for reproduction of Graphs and Models.<br>
-<b>exploratoryDataAnalysis_1.ipynb</b> - Explains out the Data Preprocessing step with some visualizations.<br>
-<b>graphMinMaxTrans.xlsx</b> - Contains models, their properties and plots for MinMaxScaler. Produced using RandomSearchCV.<br>
-<b>graphPowerTrans.xlsx</b> - Contains models, their properties and plots for PowerTransform Scaler. Produced using RandomSearchCV.<br>
-<b>graphStandardScalar.xlsx</b> - Contains models, their properties and plots for StandardScaler. Produced using RandomSearchCV.<br>
-<b>tech_challenge2021_train.zip</b> - Contains training dataset provided by Hackathon Organisers.<br>
-<b>tech_challenge2021_test.zip</b> - Contains testing dataset provided by Hackathon Organisers.<br>
+<ol>
+<li><b>PetroCoder_Round3_ByPradhuman.ipynb</b> - A standalone file for reproduction of Graphs and Models.<br></li>
+<li><b>exploratoryDataAnalysis_1.ipynb</b> - Explains out the Data Preprocessing step with some visualizations.<br></li>
+<li><b>graphMinMaxTrans.xlsx</b> - Contains models, their properties and plots for MinMaxScaler. Produced using RandomSearchCV.<br></li>
+<li><b>graphPowerTrans.xlsx</b> - Contains models, their properties and plots for PowerTransform Scaler. Produced using RandomSearchCV.<br></li>
+<li><b>graphStandardScalar.xlsx</b> - Contains models, their properties and plots for StandardScaler. Produced using RandomSearchCV.<br></li>
+<li><b>tech_challenge2021_train.zip</b> - Contains training dataset provided by Hackathon Organisers.<br></li>
+<li><b>tech_challenge2021_test.zip</b> - Contains testing dataset provided by Hackathon Organisers.<br></li>
+</ol>
