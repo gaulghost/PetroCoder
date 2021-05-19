@@ -5,7 +5,7 @@ Refer <a href="https://www.sciencedirect.com/science/article/pii/S09204105203112
 <br>
 For Reference, one can also refer to the code and visualization by <a href="https://github.com/AndrzejTunkiel/USROP">Andrzej Tunkiel</a>.
 <hr>
-Task was to achieve the highest MAE on an open and closed dataset. Data for 7 oil wells were provided. I achieved an accuracy of 99.76% using MSE criteria and 0.0736 MAE using MAE criteria. MAE recieved on on open dataset on a random well was 7.85.
+Task was to achieve the highest MAE on an open and closed dataset. Data for 7 oil wells were provided. I achieved an accuracy of 99.76% using MSE criteria and 0.0736 MAE using MAE criteria. MAE recieved on open dataset on a random well was 7.85 & on closed dataset recieved MAE 8.22. Received rank 2 on both open and closed dataset.
 <br>
 Final Notebook will be uploaded after ending of competition.
 <hr>
